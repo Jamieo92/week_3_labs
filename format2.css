@@ -1,0 +1,11 @@
+body {
+    background-color: yellow; 
+    color: green;
+    
+}
+a:link { text-decoration-color: brown;}
+
+h1{
+    font-family: monospace; 
+    color: green
+}
