@@ -1,0 +1,13 @@
+body {
+    background-color: black;
+    color:white;
+    font-family: sans-serif;
+}
+a:link {
+    background-color: gray
+}
+h1 {
+    color: gray;
+    font-family: monospace;
+}
+.news {color: red; font-style: italic;}
